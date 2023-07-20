@@ -26,7 +26,9 @@ defmodule Dockex.MixProject do
       {:uptight, github: "doma-engineering/uptight", branch: "main"},
       {:quark_goo, github: "doma-engineering/quark-goo", branch: "main"},
       {:algae_goo, github: "doma-engineering/algae-goo", branch: "main"},
-      {:witchcraft_goo, github: "doma-engineering/witchcraft-goo", branch: "main"}
+      {:witchcraft_goo, github: "doma-engineering/witchcraft-goo", branch: "main"},
+      {:ubuntu, github: "doma-engineering/ubuntu", branch: "main"},
+      {:nimble_parsec, "~> 1.3.1"}
     ]
   end
 end
